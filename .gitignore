@@ -6,3 +6,8 @@
 *.S
 *.symvers
 *.order
+
+build/
+*.o
+*.exe
+
